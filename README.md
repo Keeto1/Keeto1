@@ -1,4 +1,3 @@
-# 👋 Hey, I'm Mourad Znidi
 - 🎓 *Business Intelligence student*
 - 💻 *Web developer in progress* 
 - Tools: — React.js • Node.js • Next.js • MongoDB
