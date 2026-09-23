@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mourad</h1>
+<h1 align="center">Hi, I'm Mourad</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mourad-znidi-166349389/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
@@ -6,19 +6,19 @@
   <a href="https://my-portfollio-virid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
 </p>
 
-- 🎓 *Business Intelligence student* @ ISGIS
-- 💻 *Full-stack developer* — self-taught, MERN stack
-- 📊 Passionate about *dashboards, data, and building smart systems*
-- 🏆 CTO for Smart Idara (B2B LegalTech SaaS concept) — 1st place, IDER Student Startup Lab
+- *Business Intelligence student* @ ISGIS
+- *Full-stack developer* — self-taught, MERN stack
+- Passionate about *dashboards, data, and building smart systems*
+- CTO for Smart Idara (B2B LegalTech SaaS concept) — 1st place, IDER Student Startup Lab
 
-## 🚀 About Me
-- 🔍 Currently learning *full-stack development* and improving my skills in *data handling & backend logic*
-- 🧠 I love understanding how things work — debugging, experimenting, and building practical tools
-- 📈 Interested in *Machine Learning*, *Generative AI*, and *automation*
-- 🛠️ Always learning something new and working on projects to level up
-- 🌐 Webmaster for the ISGIS IEEE Computer Society Chapter
+## About Me
+- Currently learning *full-stack development* and improving my skills in *data handling & backend logic*
+- I love understanding how things work — debugging, experimenting, and building practical tools
+- Interested in *Machine Learning*, *Generative AI*, and *automation*
+- Always learning something new and working on projects to level up
+- Webmaster for the ISGIS IEEE Computer Society Chapter
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 
@@ -44,18 +44,13 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?logo=tensorflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Keeto1&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keeto1&layout=compact&theme=dark&hide_border=true" />
-</p>
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keeto1&theme=dark&hide_border=true" />
 </p>
 
-## 📬 Contact
+## Contact
 - Email: znidimourad26@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mourad-znidi-166349389/
 - Portfolio: https://my-portfollio-virid.vercel.app/
