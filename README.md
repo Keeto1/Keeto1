@@ -9,7 +9,6 @@
 - *Business Intelligence student* @ ISGIS
 - *Full-stack developer* — self-taught, MERN stack
 - Passionate about *dashboards, data, and building smart systems*
-- CTO for Smart Idara (B2B LegalTech SaaS concept) — 1st place, IDER Student Startup Lab
 
 ## About Me
 - Currently learning *full-stack development* and improving my skills in *data handling & backend logic*
