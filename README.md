@@ -7,7 +7,7 @@
 </p>
 
 - *Business Intelligence student* @ ISGIS
-- *Full-stack developer* — self-taught, MERN stack
+- *Full-stack developer*
 - Passionate about *dashboards, data, and building smart systems*
 
 ## About Me
