@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Mourad</h1>
+<h1 align="center">Hi, I'm Mourad 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=BI+Student+%40+ISGIS;Full-Stack+Developer+(MERN);Building+dashboards+%26+smart+systems" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mourad-znidi-166349389/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
@@ -46,7 +50,16 @@
 ## GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Keeto1&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keeto1&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keeto1&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Keeto1&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ## Contact
