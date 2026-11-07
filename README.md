@@ -10,9 +10,9 @@
   <a href="https://my-portfollio-virid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
 </p>
 
-- *Business Intelligence student* @ ISGIS
-- *Full-stack developer*
-- Passionate about *dashboards, data, and building smart systems*
+* *Business Intelligence student* @ ISGIS
+* *Full-stack developer*
+* Passionate about *dashboards, data, and building smart systems*
 
 ## About Me
 - Currently learning *full-stack development* and improving my skills in *data handling & backend logic*
@@ -33,4 +33,20 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Supabase](https://img.shield
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white)
+
+**Data / BI:**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+
+**Learning:**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+## GitHub Stats
+
+<p align="center">
