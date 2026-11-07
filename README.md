@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Mourad 👋</h1>
+<h1 align="center">Hi, I'm Mourad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=BI+Student+%40+ISGIS;Software+Developer;Building+dashboards+%26+smart+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Developer;BI+Student+%40+ISGIS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 - *Business Intelligence student* @ ISGIS
-- *Software Developer*
+- *Full-stack developer*
 - Passionate about *dashboards, data, and building smart systems*
 
 ## About Me
@@ -33,38 +33,4 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white)
-
-**Data / BI:**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-
-**Learning:**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Keeto1&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keeto1&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Keeto1&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Keeto1&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
-## Contact
-- Email: znidimourad26@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mourad-znidi-166349389/
-- Portfolio: https://my-portfollio-virid.vercel.app/
-
-> "I'm not trying to be perfect — just better than yesterday."
+![Supabase](https://img.shield
