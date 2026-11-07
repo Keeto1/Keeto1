@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mourad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=BI+Student+%40+ISGIS;Full-Stack+Developer+(MERN);Building+dashboards+%26+smart+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=BI+Student+%40+ISGIS;Software+Developer;Building+dashboards+%26+smart+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 - *Business Intelligence student* @ ISGIS
-- *Full-stack developer*
+- *Software Developer*
 - Passionate about *dashboards, data, and building smart systems*
 
 ## About Me
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keeto1&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Keeto1&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
